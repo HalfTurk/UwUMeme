@@ -15,7 +15,10 @@ UwUMeme just gives you a meme.
 git clone https://github.com/KappasDEV/UwUMeme.git
 cd UwUMeme
 npm install
+node .
 ```
+
+Make sure to change the bot token in the config.json file before you start the bot :)
 
 ## Contributing
 Just follow me on GitHub :) | That's all I want!
